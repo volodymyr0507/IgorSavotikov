@@ -8,9 +8,9 @@ Hi, I am a Full Stack Web & Mobile Developer. I own a strong hold on different s
 
 <p align="left"> 
   &emsp;
-  <img alt="Python" src="https://img.shields.io/badge/HTML-olive>
+  <img alt="Next.js" src="https://img.shields.io/badge/HTML-olive">
   &emsp;
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-pink">
+  <img alt="Next.js" src="https://img.shields.io/badge/CSS-pink">
   &emsp;
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-indigo">
   &emsp;
