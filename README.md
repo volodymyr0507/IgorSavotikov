@@ -8,6 +8,10 @@ Hi, I am a Full Stack Web & Mobile Developer. I own a strong hold on different s
 
 <p align="left"> 
   &emsp;
+  <img alt="Python" src="https://img.shields.io/badge/HTML-olive>
+  &emsp;
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-pink">
+  &emsp;
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-indigo">
   &emsp;
   <img alt="C" src="https://img.shields.io/badge/TypeScript-blue">
