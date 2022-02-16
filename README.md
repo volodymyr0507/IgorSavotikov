@@ -69,8 +69,8 @@ Hi, I am a Full Stack Web & Mobile Developer. I own a strong hold on different s
 
 ## 📊 Github Stats
 
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=storyofsoft&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=storyofsoft&layout=compact&theme=merko&count_private=true" /> 
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=storyofsoft&show_icons=true&count_private=true&theme=algolia"/>
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=storyofsoft&layout=compact&theme=algolia&count_private=true" /> 
 <img height="150px" />
 <br/>  
 
