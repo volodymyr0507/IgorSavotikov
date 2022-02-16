@@ -1,6 +1,6 @@
 ### Full Stack Developer
 
-Hi, I am a Full Stack Web & Mobile Developer. I own a strong hold on different skills such as HTML, CSS, JavaScript, Python, PHP, Vue, Nuxt, Qusasar, React JS, React-Native, Next,  Node, Laravel, TypeScript, etc. I've started my freelancing career in 2014 and succeeding it until now. I've done multiple projects on website and web app development including DApps. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.   
+Hi, I am a Full Stack Web & Mobile Developer. I own a strong hold on different skills such as HTML, CSS, JavaScript, Python, PHP, Vue, Nuxt, Qusasar, React JS, React-Native, Next,  Node, Laravel, TypeScript, etc. I've started my freelancing career in 2014 and succeeding it until now. I've done multiple projects on website and web app development. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.   
 
 ## 🛠️ My Skills
 
@@ -37,6 +37,16 @@ Hi, I am a Full Stack Web & Mobile Developer. I own a strong hold on different s
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-blue">
   &emsp;
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-brown">
+</p>
+
+### 👉 Backend Development
+<p align="left"> 
+  &emsp;
+  <img alt="Vue.js" src="https://img.shields.io/badge/Node-olive">
+  &emsp; 
+  <img alt="React" src="https://img.shields.io/badge/Laravel-indigo">
+  &emsp; 
+  <img alt="React" src="https://img.shields.io/badge/Django-blue">
 </p>
 
 ### 👉 Databases & Cloud Hosting
