@@ -12,23 +12,21 @@ Hi, I am a Full Stack Web & Mobile Developer. I own a strong hold on different s
   &emsp;
   <img alt="C" src="https://img.shields.io/badge/TypeScript-blue">
   &emsp; 
-  <img alt="C" src="https://img.shields.io/badge/Solidity-gray">
-  &emsp;
-  <img alt="C++" src="https://img.shields.io/badge/Rust-blue">
-  &emsp;
-  <img alt="Java" src="https://img.shields.io/badge/Ruby-brown">
+  <img alt="C" src="https://img.shields.io/badge/PHP-gray">
   &emsp;
   <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
 </p>
 
 ### 👉 Frontend Development
 <p align="left"> 
-  &emsp; 
-  <img alt="React" src="https://img.shields.io/badge/React-indigo">
   &emsp;
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-olive">
+  &emsp; 
+  <img alt="React" src="https://img.shields.io/badge/Nuxt-indigo">
+  &emsp; 
+  <img alt="React" src="https://img.shields.io/badge/Quasar-blue">
   &emsp;
-  <img alt="React Native" src="https://img.shields.io/badge/React Native-pink">
+  <img alt="React Native" src="https://img.shields.io/badge/React-pink">
   &emsp;
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-blue">
   &emsp;
@@ -39,20 +37,6 @@ Hi, I am a Full Stack Web & Mobile Developer. I own a strong hold on different s
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-blue">
   &emsp;
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-brown">
-</p>
-
-### 👉Blockchain
-<p align="left">
-  &emsp; 
-  <img alt="Ethereum/Solana" src="https://img.shields.io/badge/DeFi/NFT/GameFi-indigo">
-  &emsp;
-  <img alt="" src="https://img.shields.io/badge/Ethereum/Solana-blue">
-  &emsp; 
-  <img alt="" src="https://img.shields.io/badge/Truffle/Hardhat-gray">
-  &emsp;
-  <img alt="" src="https://img.shields.io/badge/ERC20/ERC721/ERC1155-blue">
-  &emsp;
-  <img alt="Tailwind" src="https://img.shields.io/badge/Infura/IPFS/Metaplex-brown">
 </p>
 
 ### 👉 Databases & Cloud Hosting
@@ -70,13 +54,6 @@ Hi, I am a Full Stack Web & Mobile Developer. I own a strong hold on different s
  </p>
 
 ## 📊 Github Stats
-
-<h1 align="center"></h1>
-<img align="left" height="150px" alt="talentdev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=talentdev0807&show_icons=true&count_private=true&theme=algolia" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=talentdev0807&show_icons=true&locale=en&layout=compact&theme=algolia" alt="talentdev0807" />
-<img height="150px" />
-<br/>  
-
  
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=storyofsoft&show_icons=true&theme=merko&count_private=true" />
