@@ -3,9 +3,7 @@
 Hi, I am a Full Stack Web & Mobile Developer. I own a strong hold on different skills such as HTML, CSS, JavaScript, Python, PHP, Vue, Nuxt, Qusasar, React JS, React-Native, Next,  Node, Laravel, TypeScript, etc. I've started my freelancing career in 2014 and succeeding it until now. I've done multiple projects on website and web app development. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.   
 
 ## 🛠️ My Skills
-
 ### 👉 Programming languages
-
 <p align="left"> 
   &emsp;
   <img alt="Next.js" src="https://img.shields.io/badge/HTML-olive">
@@ -20,7 +18,6 @@ Hi, I am a Full Stack Web & Mobile Developer. I own a strong hold on different s
   &emsp;
   <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
 </p>
-
 ### 👉 Frontend Development
 <p align="left"> 
   &emsp;
@@ -42,7 +39,6 @@ Hi, I am a Full Stack Web & Mobile Developer. I own a strong hold on different s
   &emsp;
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-brown">
 </p>
-
 ### 👉 Backend Development
 <p align="left"> 
   &emsp;
@@ -52,7 +48,6 @@ Hi, I am a Full Stack Web & Mobile Developer. I own a strong hold on different s
   &emsp; 
   <img alt="React" src="https://img.shields.io/badge/Django-blue">
 </p>
-
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp; 
@@ -66,9 +61,7 @@ Hi, I am a Full Stack Web & Mobile Developer. I own a strong hold on different s
   &emsp;
   <img alt="" src="https://img.shields.io/badge/Heroku-brown">
  </p>
-
 ## 📊 Github Stats
-
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=storyofsoft&show_icons=true&count_private=true&theme=algolia"/>
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=storyofsoft&layout=compact&theme=algolia&count_private=true" /> 
 <img height="150px" />
