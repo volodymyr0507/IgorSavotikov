@@ -1,5 +1,5 @@
 
-### Full Stack Developer
+### Web & Blockchain Engineer
 
 Hi, I am a Full Stack Web & Mobile Developer. I own a strong hold on different skills such as HTML, CSS, JavaScript, Python, PHP, Solidity, Rust, Ethereum, Vue, Nuxt, Qusasar, React JS, Next,  Node, TypeScript, etc. I've started my freelancing career in 2015 and succeeding it until now. I've done multiple projects on website and web app development. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.   
 
